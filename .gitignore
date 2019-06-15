@@ -1,3 +1,5 @@
 old
 build
 __pycache__
+*.kdev
+.kdev4
