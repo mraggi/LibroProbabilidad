@@ -14,6 +14,5 @@ for simulacion in range(simulaciones):
     if esta_en_diamante(x,y):
         dentro += 1
 
-
 probabilidad = dentro/simulaciones
 print(f"P(caer dentro)={probabilidad}")

@@ -1,6 +1,5 @@
 import random
 
-
 def aleatorios_de_suma_1(n):
     L = [random.random() for i in range(n-1)]
     L.append(0)
